@@ -17,7 +17,7 @@ Estos datos demuestran que actualmente las empresas de servicios de música est�
 
 ### Ascenso de la facturación del mercado digital en un 22,20%
 
-Esto se refleja en los **datos de venta en streaming en el año 2020. Se contabilizaron 3,7 millones de suscripciones premium, lo que supone un **23% más que la facturación del año anterior**. Además, el mercado digital ha aumentado un 22, 20% con respecto al año 2019 produciéndose una facturación de 259 millones de euros. Estas cifras comprenden los datos de descargas permanentes (canciones, audio y vídeo…), suscripciones de audio y video y audio financiado por publicidad. 
+Esto se refleja en los **datos de venta en *streaming* en el año 2020. Se contabilizaron 3,7 millones de suscripciones premium**, lo que supone un **23% más que la facturación del año anterior**. Además, el mercado digital ha aumentado un 22, 20% con respecto al año 2019 produciéndose una facturación de 259 millones de euros. Estas cifras comprenden los datos de descargas permanentes (canciones, audio y vídeo…), suscripciones de audio y video y audio financiado por publicidad. 
 
 Este presente estudio de las Productoras de Música de España es un claro reflejo de cómo la sociedad se está digitalizando y se está adaptando a los nuevos cambios, en especial el mundo musical. Ya no solo la propia industria musical está abierta a las nuevas transformaciones digitales, sino que también el propio consumidor.
 
