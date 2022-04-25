@@ -1,1 +1,1 @@
-# Estas son las prácticas 1 y 2 de la asignatura periodismo de datos
+# Estas son las prácticas 1, 2 y 3 de la asignatura periodismo de datos
